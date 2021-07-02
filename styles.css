@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+h1{
+    color: purple;
+    font-size: 340%;
+}
+
+#colorDisplay{
+    font-size: 50px;
+    font-weight: bold;
+    height: 100px;
+    width: 350px;
+    /* background-color: rebeccapurple; */
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:20px;
+    
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+table button{
+    background-color: cyan;
+    width: 100px;
+    height: 40px;
+    margin :15px;
+    font-size: 25px;
+}
+
+#start{
+    font-size: 25px;
+    height: 60px;
+    width: 130px;
+    margin-top: 40px;
+}
+
+#details{    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 30px;
+    width: 250px;
+}
